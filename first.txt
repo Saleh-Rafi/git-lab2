@@ -1,2 +1,4 @@
 Git is amazing..
-It is a new line
+
+It is a new line It can manage versions of source code..
+
